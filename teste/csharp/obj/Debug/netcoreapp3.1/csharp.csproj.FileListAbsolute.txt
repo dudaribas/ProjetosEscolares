@@ -1,0 +1,13 @@
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\bin\Debug\netcoreapp3.1\csharp.exe
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\bin\Debug\netcoreapp3.1\csharp.deps.json
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\bin\Debug\netcoreapp3.1\csharp.dll
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\bin\Debug\netcoreapp3.1\csharp.pdb
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\obj\Debug\netcoreapp3.1\csharp.csprojAssemblyReference.cache
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\obj\Debug\netcoreapp3.1\csharp.csproj.CoreCompileInputs.cache
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
+M:\Eduarda1dm\FPOO\testepoo\teste\csharp\obj\Debug\netcoreapp3.1\csharp.genruntimeconfig.cache
