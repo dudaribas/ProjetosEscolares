@@ -1,0 +1,13 @@
+M:\Eduarda1dm\elevacao\bin\Debug\netcoreapp3.1\elevacao.exe
+M:\Eduarda1dm\elevacao\bin\Debug\netcoreapp3.1\elevacao.deps.json
+M:\Eduarda1dm\elevacao\bin\Debug\netcoreapp3.1\elevacao.runtimeconfig.json
+M:\Eduarda1dm\elevacao\bin\Debug\netcoreapp3.1\elevacao.runtimeconfig.dev.json
+M:\Eduarda1dm\elevacao\bin\Debug\netcoreapp3.1\elevacao.dll
+M:\Eduarda1dm\elevacao\bin\Debug\netcoreapp3.1\elevacao.pdb
+M:\Eduarda1dm\elevacao\obj\Debug\netcoreapp3.1\elevacao.csprojAssemblyReference.cache
+M:\Eduarda1dm\elevacao\obj\Debug\netcoreapp3.1\elevacao.AssemblyInfoInputs.cache
+M:\Eduarda1dm\elevacao\obj\Debug\netcoreapp3.1\elevacao.AssemblyInfo.cs
+M:\Eduarda1dm\elevacao\obj\Debug\netcoreapp3.1\elevacao.csproj.CoreCompileInputs.cache
+M:\Eduarda1dm\elevacao\obj\Debug\netcoreapp3.1\elevacao.dll
+M:\Eduarda1dm\elevacao\obj\Debug\netcoreapp3.1\elevacao.pdb
+M:\Eduarda1dm\elevacao\obj\Debug\netcoreapp3.1\elevacao.genruntimeconfig.cache
